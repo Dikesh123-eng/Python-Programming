@@ -7,7 +7,7 @@ for i in a:
     print(i)
     """
 #Sets Function
-#Add()->To insert some elemnt in sets
+#Add()->To insert some elemnt in The sets
 """
 a={"Dikesh","Ravi","Dinesh","Hulk","Shyam"}
 print("before Adding  Mahesh sets will be:",a)
@@ -101,7 +101,7 @@ a={"Dikesh","Ravi","kartik","RAVAN","Shyam"}
 b={"Dikesh","Ravi","dinesh","hulk","Naresh"}
 print(a.intersection(b))
 """
-#Intersection-update()->Jo dono sets me coomon Hoga oh Output dega same sets me
+#Intersection-update()->Jo dono sets me common Hoga oh Output dega same sets me
 """
 a={"Dikesh","Ravi","kartik","RAVAN","Shyam"}
 b={"Dikesh","Ravi","dinesh","hulk","Naresh"}
