@@ -1,1 +1,3 @@
 # Python-Programming
+Python is a high-level, general-purpose programming language known for its readability and versatility. Created by Guido van Rossum and first released in 1991, Python emphasizes code readability through significant indentation. It supports multiple programming paradigms, including object-oriented, procedural, and functional programming. 
+Python is dynamically typed and features automatic memory management through garbage collection. It has a large standard library and supports integration with other languages like C and C++. Python's applications range from web development and data science to scripting and automation, making it a popular choice across various domains.
