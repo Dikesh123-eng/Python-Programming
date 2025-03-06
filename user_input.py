@@ -1,0 +1,11 @@
+#user input in PYTHON
+name=input(" Enter Your's Name:")
+print(name)
+name2=input(" Enter Your's  Father's Name:")
+print(name2)
+age=int( input("Enter your age:"))
+print(age)
+cgpa=float(input("Enter Your CGPA:"))
+print(cgpa)
+exp1=eval( input("Enter Your Expression"))
+print(exp1)
